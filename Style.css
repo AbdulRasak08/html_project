@@ -1,0 +1,70 @@
+#image{
+    text-align: center;
+    float: right;
+    width : 5%;
+    height : 5%;
+}
+#Head{
+    text-align: center;
+    color: rgb(18, 160, 207);
+}
+#Header4{
+    text-align: center;
+    text-decoration: underline;
+}
+.main-div{
+    text-align: center;
+}
+.container{
+    text-align: center;
+}
+.video-div {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.video-div iframe {
+    width: 560px;
+    height: 315px;
+}
+
+#main_table {
+    width: 100%;
+    margin: 20px 0;
+    border-collapse: collapse;
+}
+
+#main_table td {
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+}
+
+#main_table a {
+    text-decoration: none;
+    color: #333;
+}
+
+#main_table a:hover {
+    color: #00ccff;
+}
+
+footer {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.author {
+    color: #00ccff;
+}
+
+footer a {
+    color: #333;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
